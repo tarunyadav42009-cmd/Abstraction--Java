@@ -14,9 +14,11 @@ public class out extends demoabstract {
     }
 
     public static void main(String[] args) {
+
         out o1 = new out();
         o1.copy();
         o1.pest();
         o1.test();
+        
     }
 }
